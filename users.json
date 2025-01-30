@@ -1,0 +1,66 @@
+[
+    {
+        "id": 41190,
+        "customer_one_name": "Mrs. Alma Hirthe",
+        "customer_one_email": "Jude53@gmail.com",
+        "customer_one_password": "1234",
+        "customer_one_phone_number": "01205454972",
+        "role": "Customer"
+    },
+    {
+        "id": 41191,
+        "customer_two_name": "Steven Kuvalis MD",
+        "customer_two_email": "Trever_McLaughlin7@gmail.com",
+        "customer_two_password": "1234",
+        "customer_two_phone_number": "01205593098",
+        "role": "Customer"
+    },
+    {
+        "id": 41192,
+        "agent_name": "Ivan Grady",
+        "agent_email": "Zion.Klocko@hotmail.com",
+        "agent_password": "4321",
+        "agent_phone_number": "01205706237",
+        "role": "Agent"
+    },
+    {
+        "id": 41193,
+        "merchant_name": "Wilma Zieme",
+        "merchant_email": "Trudie72@hotmail.com",
+        "merchant_password": "9878",
+        "merchant_phone_number": "01205909846",
+        "role": "Merchant"
+    },
+    {
+        "id": 41194,
+        "customer_one_name": "Maurice Orn",
+        "customer_one_email": "Melany.Harvey94@yahoo.com",
+        "customer_one_password": "1234",
+        "customer_one_phone_number": "01205700076",
+        "role": "Customer"
+    },
+    {
+        "id": 41195,
+        "customer_two_name": "Shane Stiedemann",
+        "customer_two_email": "Percy.Hessel@yahoo.com",
+        "customer_two_password": "1234",
+        "customer_two_phone_number": "01205218141",
+        "role": "Customer"
+    },
+    {
+        "id": 41196,
+        "agent_name": "Holly Stanton-Schiller",
+        "agent_email": "Candida_Wyman77@gmail.com",
+        "agent_password": "4321",
+        "agent_phone_number": "01205820807",
+        "role": "Agent"
+    },
+    {
+        "id": 41197,
+        "merchant_name": "Ebony Walsh",
+        "merchant_email": "Brando_Bradtke81@yahoo.com",
+        "merchant_password": "9878",
+        "merchant_phone_number": "01205319785",
+        "role": "Merchant"
+    }
+]
